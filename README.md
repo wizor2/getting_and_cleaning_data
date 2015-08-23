@@ -29,18 +29,17 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ##Information about programming environment
-
-platform       i686-pc-linux-gnu           
-arch           i686                        
-os             linux-gnu                   
-system         i686, linux-gnu             
+platform ......... i686-pc-linux-gnu           
+arch ............. i686                        
+os ............... linux-gnu                   
+system ........... i686, linux-gnu             
 status                                     
-major          3                           
-minor          2.2                         
-year           2015                        
-month          08                          
-day            14                          
-svn rev        69053                       
-language       R                           
-version.string R version 3.2.2 (2015-08-14)
-nickname       Fire Safety 
+major ............ 3                           
+minor ............ 2.2                         
+year ............. 2015                        
+month ............ 08                          
+day .............. 14                          
+svn rev .......... 69053                       
+language ......... R                           
+version.string ... R version 3.2.2 (2015-08-14)
+nickname ......... Fire Safety 
