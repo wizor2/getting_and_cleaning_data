@@ -64,7 +64,7 @@ for example
 - "tBodyAcc-mean()-Z" is changed to "time_Body_Accelerometer-mean()-Z"
 
 ### Data table "tidyData"
-A data table named `allData` has class data.frame and it contains independent tidy data set with the average of each variable for each activity and each subject.
+A data table named `tidyData` has class data.frame and it contains independent tidy data set with the average of each variable for each activity and each subject.
 
 ### Procedure of clean up data
 1.     Merges the training and the test sets to create one data set.
