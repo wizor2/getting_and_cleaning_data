@@ -2,6 +2,7 @@
 
 ### Introduction
 This repository contains files of my work for the Coursera course named "Getting and Cleaning Data". 
+
 Files:
 - run_analysis.R  - R script
 - codeBook.txt    - code book for run_analysis.R
