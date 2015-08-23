@@ -1,4 +1,4 @@
-Getting and Cleaning Data Project - Peer Assessments
+### Getting and Cleaning Data Project - Peer Assessments
 
 Introduction
 This repository contains files of my work for the Coursera course named "Getting and Cleaning Data". 
