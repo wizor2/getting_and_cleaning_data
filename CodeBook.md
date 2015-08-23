@@ -53,7 +53,7 @@ Names of original variables is modified.
 - "Body" is changed to  "_Body"
 - "Acc" is changed to "_Accelerometer"
 - "Gyro"is changed to  "_Gyroscope"
-- "_Body_Body" is changed to  "_Body"
+- "BodyBody" is changed to  "_Body"
 - "Mag" is changed to  "_Magnitude"
 - "Gravity" is changed to  "_Gravity"
 - "Jerk" is changed to  "_Jerk"
