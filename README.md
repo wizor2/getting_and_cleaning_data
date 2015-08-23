@@ -5,8 +5,8 @@ This repository contains files of my work for the Coursera course named "Getting
 
 Files:
 - run_analysis.R  - R script
-- codeBook.txt    - code book for run_analysis.R
-- README.txt      - information about repository
+- CodeBook.md    - code book for run_analysis.R
+- README.md      - information about repository
 - tidyData.txt    - independent tidy data set as result of script
 
 ### Project information
