@@ -29,7 +29,7 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ###Information about programming environment
-
+```
 platform       i686-pc-linux-gnu           
 arch           i686                        
 os             linux-gnu                   
@@ -43,16 +43,5 @@ day            14
 svn rev        69053                       
 language       R                           
 version.string R version 3.2.2 (2015-08-14)
-nickname       Fire Safety  
-
- cachemean <- function(x, ...) {
-            m <- x$getmean()
-            if(!is.null(m)) {
-                    message("getting cached data")
-                    return(m)
-            }
-            data <- x$get()
-            m <- mean(data, ...)
-            x$setmean(m)
-            m
-    }
+nickname       Fire Safety 
+```
