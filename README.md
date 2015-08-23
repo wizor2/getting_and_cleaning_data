@@ -29,8 +29,9 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ##Information about programming environment
-platform       i686-pc-linux-gnu           
-arch           i686                        
+<!-- -->
+platform     i686-pc-linux-gnu           
+arch         i686                        
 os             linux-gnu                   
 system         i686, linux-gnu             
 status                                     
